@@ -1,1 +1,1 @@
-another test
+Testing API documentation automation
